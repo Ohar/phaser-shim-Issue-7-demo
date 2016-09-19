@@ -1,4 +1,4 @@
-# This is demo to demonstrate [issue #7](https://github.com/amowu/phaser-shim/issues/7) of `phaser-shim` NPM module
+# This is demo to demonstrate [issue #8](https://github.com/amowu/phaser-shim/issues/8) of `phaser-shim` NPM module
 
 ## How to look at problem
 
